@@ -12,4 +12,11 @@
 
 <!--START_SECTION:waka-->
 
+```text
+From: 22 February 2023 - To: 01 March 2023
+
+Python       30 hrs 3 mins   █████████████████████▓░░░   86.14 %
+Other        1 hr 20 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   03.84 %
+```
+
 <!--END_SECTION:waka-->
