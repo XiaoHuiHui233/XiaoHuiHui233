@@ -4,9 +4,9 @@
 
 ### [Github Readme Stats](https://github.com/anuraghazra/github-readme-stats)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=XiaoHuiHui233&layout=compact&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=XiaoHuiHui233&layout=compact&theme=github_dark)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=XiaoHuiHui233&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=XiaoHuiHui233&show_icons=true&theme=github_dark)
 
 ### [WakaTime](https://wakatime.com)
 
