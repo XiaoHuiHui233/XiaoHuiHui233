@@ -13,12 +13,12 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 23 March 2023 - To: 30 March 2023
+From: 24 March 2023 - To: 31 March 2023
 
-Python             12 hrs 56 mins  █████████████████░░░░░░░░   68.10 %
-reStructuredText   5 hrs 3 mins    ██████▓░░░░░░░░░░░░░░░░░░   26.63 %
-JSON               23 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.05 %
-Other              17 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.50 %
+Python             11 hrs 20 mins  ████████████████▓░░░░░░░░   66.44 %
+reStructuredText   5 hrs 12 mins   ███████▓░░░░░░░░░░░░░░░░░   30.57 %
+JSON               13 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.35 %
+Other              7 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.70 %
 ```
 
 <!--END_SECTION:waka-->
