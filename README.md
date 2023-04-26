@@ -13,12 +13,14 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 17 April 2023 - To: 24 April 2023
+From: 18 April 2023 - To: 25 April 2023
 
-Python             3 hrs 20 mins   ████████████▒░░░░░░░░░░░░   48.76 %
-reStructuredText   1 hr 8 mins     ████▒░░░░░░░░░░░░░░░░░░░░   16.75 %
-TOML               46 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.36 %
-Other              43 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.60 %
+Python             3 hrs 44 mins   █████████████░░░░░░░░░░░░   51.41 %
+reStructuredText   1 hr 12 mins    ████░░░░░░░░░░░░░░░░░░░░░   16.62 %
+TOML               1 hr 5 mins     ███▓░░░░░░░░░░░░░░░░░░░░░   14.96 %
+Markdown           29 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.73 %
+YAML               18 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.31 %
+Other              18 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.27 %
 ```
 
 <!--END_SECTION:waka-->
