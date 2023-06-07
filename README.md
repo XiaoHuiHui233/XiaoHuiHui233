@@ -13,12 +13,9 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 29 May 2023 - To: 05 June 2023
+From: 30 May 2023 - To: 06 June 2023
 
-Other    10 mins         ███████████████▓░░░░░░░░░   62.75 %
-JSON     5 mins          ████████▒░░░░░░░░░░░░░░░░   32.85 %
-Python   0 secs          █░░░░░░░░░░░░░░░░░░░░░░░░   04.33 %
-CSV      0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
