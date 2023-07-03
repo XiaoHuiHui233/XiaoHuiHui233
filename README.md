@@ -13,10 +13,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 24 June 2023 - To: 01 July 2023
+From: 25 June 2023 - To: 02 July 2023
 
-Text     3 hrs 37 mins   ███████████████████░░░░░░   76.55 %
-Python   1 hr 6 mins     ██████░░░░░░░░░░░░░░░░░░░   23.45 %
+Text         3 hrs 37 mins   ███████████████████░░░░░░   76.36 %
+Python       55 mins         █████░░░░░░░░░░░░░░░░░░░░   19.36 %
+TOML         11 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.02 %
+Git Config   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.23 %
+JSON         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 %
 ```
 
 <!--END_SECTION:waka-->
