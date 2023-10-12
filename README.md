@@ -13,7 +13,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 03 October 2023 - To: 10 October 2023
+From: 04 October 2023 - To: 11 October 2023
 
 Ezhil            3 mins          ███████████░░░░░░░░░░░░░░   43.70 %
 ActionScript 3   1 min           ██████░░░░░░░░░░░░░░░░░░░   23.46 %
