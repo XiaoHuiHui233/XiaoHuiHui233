@@ -13,13 +13,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 25 October 2023 - To: 01 November 2023
+From: 26 October 2023 - To: 02 November 2023
 
-Python       1 hr 51 mins    ███████████████████████▓░   94.37 %
-Docker       5 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.51 %
-Other        0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.68 %
-TOML         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.43 %
-Git Config   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
+Python       4 hrs 15 mins   █████████████████████▒░░░   85.58 %
+TOML         23 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.02 %
+Bash         7 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.60 %
+Docker       6 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.06 %
+Git Config   3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.23 %
 ```
 
 <!--END_SECTION:waka-->
