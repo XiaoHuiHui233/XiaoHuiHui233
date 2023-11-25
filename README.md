@@ -13,9 +13,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 16 November 2023 - To: 23 November 2023
+From: 17 November 2023 - To: 24 November 2023
 
-Python   17 mins         █████████████████████████   100.00 %
+Python   1 hr 12 mins    ████████████████████████▓   98.00 %
+TOML     0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.23 %
+Other    0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.54 %
+JSON     0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.13 %
+CSV      0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.11 %
 ```
 
 <!--END_SECTION:waka-->
