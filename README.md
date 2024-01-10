@@ -13,9 +13,12 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 01 January 2024 - To: 08 January 2024
+From: 02 January 2024 - To: 09 January 2024
 
-YAML   8 mins          █████████████████████████   100.00 %
+Python   21 mins         ████████████░░░░░░░░░░░░░   48.37 %
+Vue.js   14 mins         ████████░░░░░░░░░░░░░░░░░   31.89 %
+YAML     8 mins          █████░░░░░░░░░░░░░░░░░░░░   19.64 %
+Other    0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.09 %
 ```
 
 <!--END_SECTION:waka-->
