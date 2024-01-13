@@ -13,7 +13,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 04 January 2024 - To: 11 January 2024
+From: 05 January 2024 - To: 12 January 2024
 
 Python   21 mins         ████████████░░░░░░░░░░░░░   48.37 %
 Vue.js   14 mins         ████████░░░░░░░░░░░░░░░░░   31.89 %
