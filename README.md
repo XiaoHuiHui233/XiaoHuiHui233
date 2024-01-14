@@ -13,12 +13,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 05 January 2024 - To: 12 January 2024
+From: 06 January 2024 - To: 13 January 2024
 
-Python   21 mins         ████████████░░░░░░░░░░░░░   48.37 %
-Vue.js   14 mins         ████████░░░░░░░░░░░░░░░░░   31.89 %
-YAML     8 mins          █████░░░░░░░░░░░░░░░░░░░░   19.64 %
-Other    0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.09 %
+Python   21 mins         ███████████████░░░░░░░░░░   60.20 %
+Vue.js   14 mins         ██████████░░░░░░░░░░░░░░░   39.69 %
+Other    0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.11 %
 ```
 
 <!--END_SECTION:waka-->
