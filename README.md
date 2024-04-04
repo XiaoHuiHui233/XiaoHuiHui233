@@ -13,12 +13,9 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 26 March 2024 - To: 02 April 2024
+From: 27 March 2024 - To: 03 April 2024
 
-Python       2 hrs 2 mins    ███████████████████████▓░   94.16 %
-Other        7 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.51 %
-Git Config   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.26 %
-TOML         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 %
+Python   38 mins         █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
