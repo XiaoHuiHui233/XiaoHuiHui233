@@ -13,13 +13,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 03 April 2024 - To: 10 April 2024
+From: 04 April 2024 - To: 11 April 2024
 
-Python       1 hr 49 mins    ███████████████████░░░░░░   76.10 %
-TOML         21 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   14.78 %
-TypeScript   7 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   04.90 %
-Git Config   4 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.94 %
-Markdown     0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.44 %
+Python       3 hrs 41 mins   █████████████████████░░░░   84.13 %
+TOML         21 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.14 %
+Docker       7 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.70 %
+TypeScript   7 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.68 %
+Git Config   4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.63 %
 ```
 
 <!--END_SECTION:waka-->
