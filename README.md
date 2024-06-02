@@ -13,7 +13,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 24 May 2024 - To: 31 May 2024
+From: 25 May 2024 - To: 01 June 2024
 
 Python              8 hrs 36 mins   ███████████████████▓░░░░░   78.71 %
 CSV                 1 hr 8 mins     ██▓░░░░░░░░░░░░░░░░░░░░░░   10.41 %
