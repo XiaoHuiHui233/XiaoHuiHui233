@@ -13,12 +13,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 03 June 2024 - To: 10 June 2024
+From: 04 June 2024 - To: 11 June 2024
 
-TOML       1 hr 9 mins     ███████████████████░░░░░░   75.37 %
-Python     19 mins         █████▒░░░░░░░░░░░░░░░░░░░   20.97 %
-Markdown   3 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.52 %
-Other      0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.14 %
+TOML       1 hr 8 mins     █████████████████████▓░░░   86.68 %
+Python     7 mins          ██▒░░░░░░░░░░░░░░░░░░░░░░   09.24 %
+Markdown   3 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.08 %
 ```
 
 <!--END_SECTION:waka-->
