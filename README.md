@@ -13,7 +13,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 16 August 2024 - To: 23 August 2024
+From: 17 August 2024 - To: 24 August 2024
 
 Python              6 hrs 13 mins   █████████████████████▒░░░   84.86 %
 Other               33 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.66 %
