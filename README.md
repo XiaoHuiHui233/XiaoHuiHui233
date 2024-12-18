@@ -13,12 +13,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 09 December 2024 - To: 16 December 2024
+From: 10 December 2024 - To: 17 December 2024
 
-Python   1 hr 47 mins    ███████████████████████░░   92.16 %
-JSON     8 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   07.52 %
-TOML     0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.23 %
-Other    0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.09 %
+Python   36 mins         ███████████████████████▓░   94.77 %
+JSON     1 min           █▒░░░░░░░░░░░░░░░░░░░░░░░   04.97 %
+Other    0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.26 %
 ```
 
 <!--END_SECTION:waka-->
