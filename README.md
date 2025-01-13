@@ -13,7 +13,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 04 January 2025 - To: 11 January 2025
+From: 05 January 2025 - To: 12 January 2025
 
 Python              28 hrs 30 mins  ███████████████████████░░   91.61 %
 TOML                2 hrs 16 mins   █▓░░░░░░░░░░░░░░░░░░░░░░░   07.29 %
