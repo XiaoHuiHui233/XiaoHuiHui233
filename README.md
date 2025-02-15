@@ -13,13 +13,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 06 February 2025 - To: 13 February 2025
+From: 07 February 2025 - To: 14 February 2025
 
-Python              17 hrs 23 mins  █████████████████████▒░░░   85.11 %
-TOML                2 hrs 9 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   10.53 %
-JSON                28 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.30 %
-Other               19 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.59 %
-Markdown            2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.24 %
+Python              20 hrs 7 mins   █████████████████████░░░░   84.64 %
+TOML                2 hrs 19 mins   ██▒░░░░░░░░░░░░░░░░░░░░░░   09.81 %
+Other               45 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.16 %
+JSON                28 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.98 %
+Markdown            2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.21 %
 ```
 
 <!--END_SECTION:waka-->
