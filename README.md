@@ -13,11 +13,10 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 26 February 2025 - To: 05 March 2025
+From: 27 February 2025 - To: 06 March 2025
 
-Python   2 hrs 14 mins   ██████████████████████▒░░   89.04 %
-Other    12 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.25 %
-JSON     3 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.24 %
+Python   2 hrs 17 mins   ██████████████████████▓░░   91.01 %
+JSON     12 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.52 %
 TOML     0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.47 %
 ```
 
