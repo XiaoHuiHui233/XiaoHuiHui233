@@ -13,12 +13,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 29 July 2025 - To: 05 August 2025
+From: 30 July 2025 - To: 06 August 2025
 
-Python              4 hrs 12 mins   ██████████████████████▒░░   89.01 %
-JSON                24 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   08.78 %
-Other               5 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.03 %
-Debian Sourcelist   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.18 %
+Python              3 hrs 35 mins   ████████████████████▓░░░░   82.54 %
+JSON                22 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.61 %
+reStructuredText    14 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.53 %
+Other               5 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.20 %
+TOML                2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.86 %
 ```
 
 <!--END_SECTION:waka-->
