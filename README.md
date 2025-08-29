@@ -13,10 +13,10 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 20 August 2025 - To: 27 August 2025
+From: 21 August 2025 - To: 28 August 2025
 
-Python   34 mins         █████████████████▒░░░░░░░   69.48 %
-JSON     14 mins         ███████▓░░░░░░░░░░░░░░░░░   30.52 %
+Python   20 mins         ██████████████████████▓░░   91.02 %
+JSON     2 mins          ██▒░░░░░░░░░░░░░░░░░░░░░░   08.98 %
 ```
 
 <!--END_SECTION:waka-->
