@@ -13,13 +13,12 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 07 September 2025 - To: 14 September 2025
+From: 09 September 2025 - To: 16 September 2025
 
-Python   1 hr 23 mins    ████████████████████████░   95.59 %
-Bash     1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.86 %
-JSON     1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.68 %
-TOML     0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.79 %
-Other    0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 %
+Python   1 hr 9 mins     ████████████████████████▒   96.75 %
+Bash     1 min           ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.26 %
+JSON     0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.89 %
+Other    0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.09 %
 ```
 
 <!--END_SECTION:waka-->
