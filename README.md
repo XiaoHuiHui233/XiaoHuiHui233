@@ -13,11 +13,9 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 22 September 2025 - To: 29 September 2025
+From: 24 September 2025 - To: 01 October 2025
 
-C++     46 mins         █████████████████████░░░░   84.12 %
-JSON    8 mins          ███▓░░░░░░░░░░░░░░░░░░░░░   14.60 %
-Other   0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.28 %
+JSON   2 mins          █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
