@@ -13,10 +13,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 14 October 2025 - To: 21 October 2025
+From: 15 October 2025 - To: 22 October 2025
 
-JSON     22 mins         █████████████████████▒░░░   85.15 %
-Python   3 mins          ███▓░░░░░░░░░░░░░░░░░░░░░   14.85 %
+TOML                1 hr 7 mins     ██████████▒░░░░░░░░░░░░░░   41.22 %
+Python              39 mins         ██████░░░░░░░░░░░░░░░░░░░   24.49 %
+Other               27 mins         ████▒░░░░░░░░░░░░░░░░░░░░   17.15 %
+Git Config          17 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.95 %
+JSON                7 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.54 %
 ```
 
 <!--END_SECTION:waka-->
