@@ -13,13 +13,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 16 October 2025 - To: 23 October 2025
+From: 17 October 2025 - To: 24 October 2025
 
-Python              1 hr 47 mins    █████████░░░░░░░░░░░░░░░░   35.42 %
-TOML                1 hr 33 mins    ███████▓░░░░░░░░░░░░░░░░░   30.67 %
-Other               28 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.27 %
-Git Config          25 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.30 %
-Docker              23 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.62 %
+Python              3 hrs 48 mins   ████████████▓░░░░░░░░░░░░   50.69 %
+TOML                1 hr 54 mins    ██████▒░░░░░░░░░░░░░░░░░░   25.44 %
+Other               28 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.26 %
+Git Config          26 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.79 %
+Docker              25 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.63 %
 ```
 
 <!--END_SECTION:waka-->
