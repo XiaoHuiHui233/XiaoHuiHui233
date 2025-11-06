@@ -13,13 +13,10 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 27 October 2025 - To: 03 November 2025
+From: 29 October 2025 - To: 05 November 2025
 
-TOML     1 hr 2 mins     ████████████████▒░░░░░░░░   64.69 %
-Python   26 mins         ███████░░░░░░░░░░░░░░░░░░   27.67 %
-Other    7 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   07.49 %
-Bash     0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.15 %
-Docker   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
+Python   19 mins         ██████████████░░░░░░░░░░░   55.44 %
+TOML     15 mins         ███████████░░░░░░░░░░░░░░   44.56 %
 ```
 
 <!--END_SECTION:waka-->
