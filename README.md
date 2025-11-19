@@ -13,11 +13,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 10 November 2025 - To: 17 November 2025
+From: 11 November 2025 - To: 18 November 2025
 
-JSON                18 mins         ██████████▒░░░░░░░░░░░░░░   41.26 %
-Other               15 mins         ████████▓░░░░░░░░░░░░░░░░   35.21 %
-Python              10 mins         ██████░░░░░░░░░░░░░░░░░░░   23.43 %
+JSON                28 mins         ████████████████▓░░░░░░░░   66.21 %
+Python              9 mins          █████▒░░░░░░░░░░░░░░░░░░░   21.70 %
+Other               5 mins          ███░░░░░░░░░░░░░░░░░░░░░░   11.99 %
 Text                0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.09 %
 Debian Sourcelist   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 %
 ```
