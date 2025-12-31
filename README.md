@@ -13,9 +13,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 22 December 2025 - To: 29 December 2025
+From: 23 December 2025 - To: 30 December 2025
 
-No activity tracked
+Python   1 hr 59 mins    ██████████████░░░░░░░░░░░   56.20 %
+JSON     1 hr 2 mins     ███████▒░░░░░░░░░░░░░░░░░   29.52 %
+Other    16 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.69 %
+CSV      10 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.98 %
+HTML     3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.60 %
 ```
 
 <!--END_SECTION:waka-->
