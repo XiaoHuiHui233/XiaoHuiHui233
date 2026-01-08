@@ -13,12 +13,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 30 December 2025 - To: 06 January 2026
+From: 31 December 2025 - To: 07 January 2026
 
-JSON       21 mins         ██████████▓░░░░░░░░░░░░░░   42.74 %
-Python     19 mins         █████████▓░░░░░░░░░░░░░░░   39.10 %
-CSV        6 mins          ███▒░░░░░░░░░░░░░░░░░░░░░   13.58 %
-Markdown   2 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.58 %
+JSON     21 mins         ██████████████░░░░░░░░░░░   56.44 %
+Python   9 mins          ██████▒░░░░░░░░░░░░░░░░░░   25.63 %
+CSV      6 mins          ████▒░░░░░░░░░░░░░░░░░░░░   17.93 %
 ```
 
 <!--END_SECTION:waka-->
