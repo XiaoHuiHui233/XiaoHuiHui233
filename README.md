@@ -13,11 +13,10 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 04 January 2026 - To: 11 January 2026
+From: 05 January 2026 - To: 12 January 2026
 
-JSON     23 mins         ██████████████▓░░░░░░░░░░   58.33 %
-Python   9 mins          ██████░░░░░░░░░░░░░░░░░░░   24.52 %
-CSV      6 mins          ████▒░░░░░░░░░░░░░░░░░░░░   17.15 %
+CSV    4 mins          ██████████████████░░░░░░░   71.55 %
+JSON   1 min           ███████░░░░░░░░░░░░░░░░░░   28.45 %
 ```
 
 <!--END_SECTION:waka-->
