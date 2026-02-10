@@ -13,12 +13,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 01 February 2026 - To: 08 February 2026
+From: 02 February 2026 - To: 09 February 2026
 
-YAML    38 mins         ██████████████████▓░░░░░░   74.13 %
-Other   9 mins          █████░░░░░░░░░░░░░░░░░░░░   19.34 %
-CSV     3 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.97 %
-TOML    0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.57 %
+YAML     38 mins         ███████████████▓░░░░░░░░░   62.92 %
+Python   12 mins         █████▒░░░░░░░░░░░░░░░░░░░   20.67 %
+Other    9 mins          ████░░░░░░░░░░░░░░░░░░░░░   16.41 %
 ```
 
 <!--END_SECTION:waka-->
