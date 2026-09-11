@@ -13,12 +13,12 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 02 September 2026 - To: 09 September 2026
+From: 03 September 2026 - To: 10 September 2026
 
-Python   2 hrs 25 mins   ████████████░░░░░░░░░░░░░   48.22 %
-Other    1 hr 14 mins    ██████▒░░░░░░░░░░░░░░░░░░   24.87 %
-CSV      1 hr 3 mins     █████▒░░░░░░░░░░░░░░░░░░░   20.95 %
-Bash     17 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.95 %
+Python   2 hrs 48 mins   ███████████░░░░░░░░░░░░░░   44.26 %
+Other    2 hrs 10 mins   ████████▓░░░░░░░░░░░░░░░░   34.40 %
+CSV      1 hr 3 mins     ████░░░░░░░░░░░░░░░░░░░░░   16.62 %
+Bash     17 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.72 %
 ```
 
 <!--END_SECTION:waka-->
