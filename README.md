@@ -15,6 +15,37 @@ My projects tend to start with a small problem and somehow end up involving prot
 - 🎮 **Game & Competition Tech** — game plugins, timers, tournament platforms, broadcast tooling, and competitive infrastructure
 - 🐍 **Python** — still the language I reach for first
 
+## GitHub
+
+<p align="center">
+  <img
+    height="165"
+    src="./profile/stats.svg"
+    alt="XiaoHuiHui233's GitHub stats"
+  />
+  <img
+    height="165"
+    src="./profile/top-langs.svg"
+    alt="Top Languages"
+  />
+</p>
+
+## This week I coded
+
+<!--START_SECTION:waka-->
+
+```txt
+From: 15 September 2026 - To: 22 September 2026
+
+Python       2 hrs 40 mins   ██████████░░░░░░░░░░░░░░░   39.95 %
+Markdown     1 hr 55 mins    ███████▒░░░░░░░░░░░░░░░░░   28.79 %
+Other        1 hr 7 mins     ████▒░░░░░░░░░░░░░░░░░░░░   16.84 %
+CSV          33 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.23 %
+Bash         9 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.40 %
+```
+
+<!--END_SECTION:waka-->
+
 ## Things I've built
 
 ### 📈 Quantitative Trading Systems
@@ -66,33 +97,3 @@ Blockchain is no longer my main focus, but it was an important part of how I lea
 
 I care more about understanding the system than collecting technology badges.
 
-## GitHub
-
-<p align="center">
-  <img
-    height="165"
-    src="./profile/stats.svg"
-    alt="XiaoHuiHui233's GitHub stats"
-  />
-  <img
-    height="165"
-    src="./profile/top-langs.svg"
-    alt="Top Languages"
-  />
-</p>
-
-## This week I coded
-
-<!--START_SECTION:waka-->
-
-```txt
-From: 15 September 2026 - To: 22 September 2026
-
-Python       2 hrs 40 mins   ██████████░░░░░░░░░░░░░░░   39.95 %
-Markdown     1 hr 55 mins    ███████▒░░░░░░░░░░░░░░░░░   28.79 %
-Other        1 hr 7 mins     ████▒░░░░░░░░░░░░░░░░░░░░   16.84 %
-CSV          33 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.23 %
-Bash         9 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.40 %
-```
-
-<!--END_SECTION:waka-->
