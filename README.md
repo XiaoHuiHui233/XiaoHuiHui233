@@ -97,18 +97,17 @@ badges.
 ## GitHub
 
 ```{=html}
-<p>
-```
-`<img
+<p align="center">
+  <img
     height="165"
-    src="https://github-readme-stats.vercel.app/api?username=XiaoHuiHui233&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github"
-    alt="GitHub Stats"
-  />`{=html} `<img
+    src="./profile/stats.svg"
+    alt="XiaoHuiHui233's GitHub stats"
+  />
+  <img
     height="165"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=XiaoHuiHui233&layout=compact&theme=github_dark&hide_border=true&langs_count=8"
+    src="./profile/top-langs.svg"
     alt="Top Languages"
-  />`{=html}
-```{=html}
+  />
 </p>
 ```
 ## This week I coded
