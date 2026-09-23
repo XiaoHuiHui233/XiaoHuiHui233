@@ -1,18 +1,122 @@
-# XiaoHuiHui233
+# Hi, I'm XiaoHuiHui233 👋
 
-*A lazy guy, loves Python, Web3 follower, blockchain developer, Minecraft fan.*
+> **I build systems.**
 
-### [Github Readme Stats](https://github.com/anuraghazra/github-readme-stats)
+**Systems builder. Python at heart.**\
+I build trading systems, infrastructure, game tooling, and things that
+probably didn't need to be automated.
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=XiaoHuiHui233&layout=compact&theme=github_dark)
+My projects tend to start with a small problem and somehow end up
+involving protocols, networking, backend services, infrastructure, or
+hardware.
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=XiaoHuiHui233&show_icons=true&theme=github_dark)
+## What I work on
 
-### [WakaTime](https://wakatime.com)
+-   📈 **Quantitative Systems** --- market data, research, backtesting,
+    portfolio optimization, execution, and trading infrastructure
+-   ⚙️ **Systems & Infrastructure** --- Linux, containers, databases,
+    storage, self-hosting, automation, and distributed services
+-   🌐 **Networking & Streaming** --- routing, IPv6, low-latency
+    networking, real-time communication, video pipelines, and
+    synchronization
+-   🎮 **Game & Competition Tech** --- game plugins, timers, tournament
+    platforms, broadcast tooling, and competitive infrastructure
+-   🐍 **Python** --- still the language I reach for first
 
+## Things I've built
+
+### 📈 Quantitative Trading Systems
+
+Most of my current engineering work lives around quantitative trading:
+
+`Market Data` · `Research` · `Backtesting` · `Execution` ·
+`Portfolio Optimization` · `Data Infrastructure`
+
+I enjoy building the whole path from data ingestion and research tooling
+to production execution and infrastructure.
+
+### 🏆 Twilight Cup
+
+I build and maintain tooling for **Human: Fall Flat** competitive events
+under [TwilightCup](https://github.com/TwilightCup).
+
+The project spans multiple layers of the competition stack:
+
+-   **Game-side tooling** --- C# / BepInEx plugins, timers, input
+    overlays, game-state integration
+-   **Competition services** --- Python backend services and real-time
+    communication
+-   **Web applications** --- Vue-based tournament and operator
+    interfaces
+-   **Broadcast tooling** --- OBS integration, frame-level timestamps,
+    stream synchronization
+-   **Infrastructure** --- deployment, networking, automation, and event
+    operations
+
+What started as tournament tooling gradually became an end-to-end
+competition platform.
+
+### 🧱 BSR
+
+I previously ran and maintained the technical infrastructure around
+[BSR-Server](https://github.com/BSR-Server), a technical Minecraft
+community.
+
+That meant much more than running a Minecraft server: plugins, proxies,
+authentication, networking, web services, automation, and the
+infrastructure required to keep everything working.
+
+Minecraft has been one of my longest-running excuses to build
+infrastructure.
+
+### ⛓️ Ethereum
+
+Before moving deeper into systems and quantitative engineering, I spent
+a lot of time exploring Ethereum internals.
+
+Some of that work is still public:
+
+-   **ETHFinder** --- experiments around Ethereum's execution-layer
+    networking and devp2p
+-   **ETHHelper** --- asynchronous Geth tooling built around `httpx`,
+    `websockets`, `web3.py`, and `pydantic`
+
+Blockchain is no longer my main focus, but it was an important part of
+how I learned asynchronous networking, protocols, and distributed
+systems.
+
+## Languages & Tools
+
+`Python` · `C#` · `C` · `Java` · `Vue` · `Bash`
+
+`Linux` · `Docker` · `PostgreSQL` · `S3` · `OpenWrt` · `Git`
+
+I care more about understanding the system than collecting technology
+badges.
+
+## GitHub
+
+```{=html}
+<p>
+```
+`<img
+    height="165"
+    src="https://github-readme-stats.vercel.app/api?username=XiaoHuiHui233&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github"
+    alt="GitHub Stats"
+  />`{=html} `<img
+    height="165"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=XiaoHuiHui233&layout=compact&theme=github_dark&hide_border=true&langs_count=8"
+    alt="Top Languages"
+  />`{=html}
+```{=html}
+</p>
+```
+## This week I coded
+
+```{=html}
 <!--START_SECTION:waka-->
-
-```txt
+```
+``` txt
 From: 15 September 2026 - To: 22 September 2026
 
 Python       2 hrs 40 mins   ██████████░░░░░░░░░░░░░░░   39.95 %
@@ -22,4 +126,6 @@ CSV          33 mins         ██░░░░░░░░░░░░░░░
 Bash         9 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.40 %
 ```
 
+```{=html}
 <!--END_SECTION:waka-->
+```
