@@ -84,4 +84,15 @@ I care more about understanding the system than collecting technology badges.
 ## This week I coded
 
 <!--START_SECTION:waka-->
+
+```txt
+From: 15 September 2026 - To: 22 September 2026
+
+Python       2 hrs 40 mins   ██████████░░░░░░░░░░░░░░░   39.95 %
+Markdown     1 hr 55 mins    ███████▒░░░░░░░░░░░░░░░░░   28.79 %
+Other        1 hr 7 mins     ████▒░░░░░░░░░░░░░░░░░░░░   16.84 %
+CSV          33 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.23 %
+Bash         9 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.40 %
+```
+
 <!--END_SECTION:waka-->
