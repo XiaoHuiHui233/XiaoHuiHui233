@@ -35,17 +35,17 @@ My projects tend to start with a small problem and somehow end up involving prot
 <!--START_SECTION:waka-->
 
 ```txt
-From: 17 September 2026 - To: 24 September 2026
+From: 18 September 2026 - To: 25 September 2026
 
-Total Time: 2 hrs 39 mins
+Total Time: 1 hr 57 mins
 
-Python       1 hr 18 mins    ███████████░░░░░░░░░░░░░░   43.79 %
-Markdown     54 mins         ███████▓░░░░░░░░░░░░░░░░░   30.50 %
-CSV          22 mins         ███░░░░░░░░░░░░░░░░░░░░░░   12.25 %
-Other        20 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   11.27 %
-JavaScript   2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.47 %
-Bash         1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.70 %
-JSON         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 %
+Markdown     52 mins         █████████▓░░░░░░░░░░░░░░░   38.30 %
+Python       38 mins         ███████░░░░░░░░░░░░░░░░░░   28.07 %
+CSV          22 mins         ████░░░░░░░░░░░░░░░░░░░░░   16.02 %
+Other        20 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   14.74 %
+JavaScript   2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.92 %
+Bash         1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.91 %
+JSON         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 %
 ```
 
 <!--END_SECTION:waka-->
