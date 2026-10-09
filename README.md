@@ -35,17 +35,15 @@ My projects tend to start with a small problem and somehow end up involving prot
 <!--START_SECTION:waka-->
 
 ```txt
-From: 30 September 2026 - To: 07 October 2026
+From: 01 October 2026 - To: 08 October 2026
 
-Total Time: 3 hrs 30 mins
+Total Time: 3 hrs 56 mins
 
-JavaScript   1 hr 20 mins    █████████░░░░░░░░░░░░░░░░   36.25 %
-TypeScript   44 mins         █████░░░░░░░░░░░░░░░░░░░░   20.32 %
-Markdown     43 mins         █████░░░░░░░░░░░░░░░░░░░░   19.58 %
-Python       40 mins         ████▓░░░░░░░░░░░░░░░░░░░░   18.44 %
-Other        10 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.84 %
-Vue          0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.38 %
-YAML         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.19 %
+Markdown           2 hrs 1 min     ████████████▒░░░░░░░░░░░░   49.69 %
+Python             1 hr 47 mins    ███████████░░░░░░░░░░░░░░   44.26 %
+Other              7 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.93 %
+reStructuredText   6 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.72 %
+YAML               0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.40 %
 ```
 
 <!--END_SECTION:waka-->
