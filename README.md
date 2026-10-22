@@ -35,18 +35,18 @@ My projects tend to start with a small problem and somehow end up involving prot
 <!--START_SECTION:waka-->
 
 ```txt
-From: 13 October 2026 - To: 20 October 2026
+From: 14 October 2026 - To: 21 October 2026
 
-Total Time: 12 hrs 49 mins
+Total Time: 10 hrs 37 mins
 
-Other        9 hrs 39 mins   ██████████▓░░░░░░░░░░░░░░   42.96 %
-TypeScript   3 hrs 42 mins   ████░░░░░░░░░░░░░░░░░░░░░   16.50 %
-Python       2 hrs 51 mins   ███▒░░░░░░░░░░░░░░░░░░░░░   12.69 %
-CSS          2 hrs 13 mins   ██▒░░░░░░░░░░░░░░░░░░░░░░   09.92 %
-JSON         1 hr 33 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.93 %
-JavaScript   1 hr 23 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.21 %
-CSV          51 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.80 %
-YAML         6 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.47 %
+Other        8 hrs 33 mins   ███████████░░░░░░░░░░░░░░   44.63 %
+JSON         3 hrs 22 mins   ████▒░░░░░░░░░░░░░░░░░░░░   17.56 %
+Python       1 hr 47 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   09.34 %
+TypeScript   1 hr 43 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   09.03 %
+CSV          1 hr 29 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   07.80 %
+JavaScript   1 hr 3 mins     █▒░░░░░░░░░░░░░░░░░░░░░░░   05.53 %
+CSS          40 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.50 %
+Markdown     18 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.64 %
 ```
 
 <!--END_SECTION:waka-->
