@@ -35,18 +35,18 @@ My projects tend to start with a small problem and somehow end up involving prot
 <!--START_SECTION:waka-->
 
 ```txt
-From: 20 October 2026 - To: 27 October 2026
+From: 21 October 2026 - To: 28 October 2026
 
-Total Time: 15 hrs 9 mins
+Total Time: 12 hrs 45 mins
 
-JSON         9 hrs 10 mins   ███████████░░░░░░░░░░░░░░   43.69 %
-Other        5 hrs 51 mins   ███████░░░░░░░░░░░░░░░░░░   27.86 %
-Python       2 hrs 25 mins   ███░░░░░░░░░░░░░░░░░░░░░░   11.55 %
-Markdown     56 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.46 %
-CSV          49 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.91 %
-Text         41 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.31 %
-YAML         23 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.84 %
-Swift        23 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.83 %
+JSON         7 hrs 27 mins   █████████▓░░░░░░░░░░░░░░░   38.53 %
+Other        6 hrs 35 mins   ████████▓░░░░░░░░░░░░░░░░   34.06 %
+Python       2 hrs 50 mins   ███▓░░░░░░░░░░░░░░░░░░░░░   14.67 %
+Text         39 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.38 %
+Markdown     31 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.72 %
+YAML         23 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.00 %
+Swift        23 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.99 %
+CSV          19 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.71 %
 ```
 
 <!--END_SECTION:waka-->
