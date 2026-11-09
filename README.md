@@ -35,18 +35,18 @@ My projects tend to start with a small problem and somehow end up involving prot
 <!--START_SECTION:waka-->
 
 ```txt
-From: 31 October 2026 - To: 07 November 2026
+From: 01 November 2026 - To: 08 November 2026
 
-Total Time: 16 hrs 53 mins
+Total Time: 15 hrs 44 mins
 
-Python             8 hrs 54 mins   ████████████░░░░░░░░░░░░░   48.30 %
-Markdown           3 hrs 23 mins   ████▓░░░░░░░░░░░░░░░░░░░░   18.38 %
-Other              1 hr 33 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   08.48 %
-TOML               1 hr 18 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   07.10 %
-reStructuredText   37 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.42 %
-JSON               35 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.22 %
-Text               34 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.13 %
-TypeScript         18 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.70 %
+Python             7 hrs 51 mins   ███████████▒░░░░░░░░░░░░░   45.49 %
+Markdown           3 hrs 19 mins   ████▓░░░░░░░░░░░░░░░░░░░░   19.21 %
+Other              1 hr 32 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   08.93 %
+TOML               1 hr 18 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   07.58 %
+reStructuredText   37 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.65 %
+Text               34 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.34 %
+JSON               34 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.29 %
+TypeScript         18 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.82 %
 ```
 
 <!--END_SECTION:waka-->
