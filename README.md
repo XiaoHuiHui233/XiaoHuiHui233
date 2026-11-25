@@ -35,18 +35,18 @@ My projects tend to start with a small problem and somehow end up involving prot
 <!--START_SECTION:waka-->
 
 ```txt
-From: 16 November 2026 - To: 23 November 2026
+From: 17 November 2026 - To: 24 November 2026
 
-Total Time: 3 hrs 25 mins
+Total Time: 2 hrs 7 mins
 
-Other        1 hr 51 mins    ████████▓░░░░░░░░░░░░░░░░   35.23 %
-Python       1 hr 4 mins     █████░░░░░░░░░░░░░░░░░░░░   20.20 %
-Markdown     38 mins         ███░░░░░░░░░░░░░░░░░░░░░░   12.26 %
-Text         33 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.52 %
-CSV          25 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.91 %
-JSON         22 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   07.09 %
-Bash         14 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.60 %
-TOML         4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.54 %
+Other        1 hr 46 mins    ███████████▒░░░░░░░░░░░░░   45.54 %
+Python       51 mins         █████▓░░░░░░░░░░░░░░░░░░░   22.02 %
+Markdown     29 mins         ███░░░░░░░░░░░░░░░░░░░░░░   12.54 %
+CSV          25 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.72 %
+Bash         14 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.23 %
+TOML         4 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.09 %
+JavaScript   1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.66 %
+YAML         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.20 %
 ```
 
 <!--END_SECTION:waka-->
